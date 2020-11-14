@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-An example of GUI application using PyQt5 and Qt Designer.
+An example of GUI application using PyQt5 and Qt Designer tool.
 
 It simulates Fraunhofer diffraction by a rectangular aperture.
 
