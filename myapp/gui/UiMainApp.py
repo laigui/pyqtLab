@@ -163,7 +163,7 @@ class Ui_MainWindow(object):
         self.SpinBox_f2.setStatusTip(_translate("MainWindow", "Change the focal length f2 of the lens L2"))
         self.slider_f2.setStatusTip(_translate("MainWindow", "Change the focal length f2 of the lens L2"))
 
-from mplwidget import MPL_WIDGET
+from gui.mplwidget import MPL_WIDGET
 
 if __name__ == "__main__":
     import sys
